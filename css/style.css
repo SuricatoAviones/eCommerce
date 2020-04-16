@@ -46,3 +46,21 @@
     height: 2px;
     background-color: lawngreen;
 }
+.underline-blue{
+    width: 70px;
+    height: 2px;
+    background-color: blue;
+}
+.underline-black{
+    width: 70px;
+    height: 2px;
+    background-color: black;
+}
+
+.card-body{
+    text-align: center;
+}
+.blog .media img{
+    max-width: 200px;
+    height: auto;
+}
